@@ -1,12 +1,12 @@
-  
-const para=document.getElementsByTagName("strong")
-const para1=document.getElementsByTagName("href")
+function highlight() {
+    //Write your code here
 
- para1.addEventListener("mouseover",highlight)
- function highlight(){
-    para.style.color="blue"
- }
- para1.addEventListener("mouseout",return_normal)
-function return_normal(){
-    para.style.color="black"
- }
+
+}
+
+
+function return_normal() {
+    //Write your code here
+
+    
+}
